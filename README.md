@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m a Computational Biology researcher, and working as a Big data Engineer with a skill set in Pyspark, AWS, Azur Databricks, Airflow, SQL, Python, Java, and Machine learning.
+- I’m a Computational Biology researcher, and working as a Big data Engineer with a skill set in Pyspark, AWS, Azur Databricks, Airflow, SQL, Python, Java, and Machine learning. <\br>
   In my free time, I like cooking, driving, working at my house, and spending time with family and friends.
 - 👀 My research interests primarily lie in RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence alignment and analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases. Throughout my academic journey, I have cultivated a deep passion for deciphering the molecular mechanisms underlying biological phenomena.
 - 👀 My research interests primarily lie in RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence alignment and analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
