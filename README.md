@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m a Computational Biology researcher and worked as a Big data Engineer with a skill set in Pyspark, AWS, Azur Databricks, Airflow, SQL, Python, Java, and Machine learning (ML). <br/>
-  In my free time, I like cooking, driving, working at my house, and spending time with family and friends.
+- I’m a Computational Biology researcher and worked as a Research Scientist and Data Engineer with a skill set in Python, Pyspark, AWS, Azur Databricks, Airflow, SQL, Java, and Machine learning (ML). <br/>
+  In my free time, I like cooking, driving, working at home, and spending time with family and friends.
   
-- 👀 My research interests primarily lie in RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence alignment and analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
-- 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, as well as the integration of machine learning (ML) and deep learning methodologies.
+- 👀 My research interests are RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
+- 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, multi-omics data integration, and the integration of machine learning (ML) and deep learning methodologies.
 - 💞️ I’m looking to collaborate on Computational Biology, ML research work.
 - 📫 reach me @ sudipmondalcs@gmail.com
