@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 👀 My research interests are RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
 - 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, multi-omics data integration, and the integration of machine learning (ML) and deep learning methodologies.
 - 💞️ I’m looking to collaborate on Computational Biology, ML research work.
+- weblink - https://sudipcs.github.io/
 - 📫 reach me @ sudipmondalcs@gmail.com
