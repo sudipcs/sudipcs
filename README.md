@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, multi-omics data integration, and the integration of machine learning (ML) and deep learning methodologies.
 - 💞️ I’m looking to collaborate on Computational Biology, ML research work.
 - In my free time, I like cooking, driving, working at home, and spending time with family and friends.
-- 📫 reach me at sudipmondalcs[at]gmail.com
+- 📫 reach me at sudipmondalcs [at] gmail [dot] com
