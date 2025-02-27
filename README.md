@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a **Postdoc Research Fellow** at **UoB**. My work focuses on developing computational methods for analyzing multi-omics data, integrating genomics, transcriptomics, metagenomics, and clinical datasets.  
+I’m a **Postdoc Research Fellow** at **Cancer and Genomic Sciences, UoB**. My work focuses on developing computational methods for analyzing multi-omics data, integrating genomics, transcriptomics, metabolomics, metagenomics, metatranscriptomics, and clinical datasets.  
 
 🔬 **Research Interests & Expertise**  
 - **Integrative Omics Data Analytics** for multi-layered biological insights  
