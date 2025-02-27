@@ -19,7 +19,7 @@ I’m a **Postdoc Research Fellow** at **UoB**. My work focuses on developing co
 
 🔬 **Research Interests & Expertise**  
 - **Integrative Omics Data Analytics** for multi-layered biological insights  
-- **RNA-seq & Single-Cell Data Analysis**  
+- **RNA-seq Data Analysis**  
 - **Multi-Omics Data Fusion & Machine Learning (ML) Applications**  
 - **Survival Analysis & Statistical Modeling in Omics**  
 - **Development of Biological Sequence Databases**  
