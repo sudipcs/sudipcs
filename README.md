@@ -15,9 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m a Computational Biology researcher and worked as a Research Scientist and Data Engineer with a skill set in Python, Pyspark, AWS, Azur Databricks, Airflow, SQL, Java, and Machine learning (ML). 
-- 👀 My research interests are RNA-seq data analysis and biological big data exploration. I have sharpened skills in Sequence analysis, de novo transcriptome assembly, survival analysis using diverse statistical and machine learning techniques, and the development of biological sequence databases.
-- 🌱 I’m currently acquiring proficiency in various aspects of RNA-seq data analysis, single-cell analysis, multi-omics data integration, and the integration of machine learning (ML) and deep learning methodologies.
-- 💞️ I’m looking to collaborate on Computational Biology, ML research work.
-- In my free time, I like cooking, driving, working at home, and spending time with family and friends.
-- 📫 reach me at sudipmondalcs [at] gmail [dot] com
+Here’s your refined GitHub bio with a focus on **Integrative Omics Data Analytics**:  
+
+---
+
+### **GitHub Bio**  
+
+🚀 **Postdoctoral Research Fellow | Integrative Omics Data Analytics | Computational Biology**  
+
+I’m a **Postdoc Research Fellow** in **Integrative Omics Data Analytics** at the **University of Birmingham (UoB)**. My work focuses on developing computational methods for analyzing multi-omics data, integrating genomics, transcriptomics, metagenomics, and clinical datasets.  
+
+🔬 **Research Interests & Expertise**  
+- **Integrative Omics Data Analytics** for multi-layered biological insights  
+- **RNA-seq & Single-Cell Data Analysis**  
+- **Multi-Omics Data Fusion & Machine Learning (ML) Applications**  
+- **Survival Analysis & Statistical Modeling in Omics**  
+- **Development of Biological Sequence Databases**  
+
+📚 **Technical Skills**  
+- **Programming & Big Data**: Python, PySpark, SQL, Java  
+- **Cloud & Workflow Orchestration**: AWS, Azure Databricks, Airflow  
+- **AI & ML**: Machine Learning, Deep Learning in Bioinformatics  
+
+💡 **Currently Exploring**  
+- Advanced methods for **multi-omics data integration**  
+- Deep learning applications in **computational biology**  
+
+💞️ **Looking to Collaborate On**  
+- **Computational Biology & AI-driven Omics Research**  
+- **Data Science & ML for Big Data in Life Sciences**  
+
+🏡 **Outside Research**  
+I enjoy **cooking, driving, working at home, and spending time with family & friends**.  
+
+📫 **Reach me at**: sudipmondalcs [at] gmail [dot] com  
