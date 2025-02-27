@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here’s your refined GitHub bio with a focus on **Integrative Omics Data Analytics**:  
-
----
-
-### **GitHub Bio**  
-
-🚀 **Postdoctoral Research Fellow | Integrative Omics Data Analytics | Computational Biology**  
-
-I’m a **Postdoc Research Fellow** in **Integrative Omics Data Analytics** at the **University of Birmingham (UoB)**. My work focuses on developing computational methods for analyzing multi-omics data, integrating genomics, transcriptomics, metagenomics, and clinical datasets.  
+I’m a **Postdoc Research Fellow** at **UoB**. My work focuses on developing computational methods for analyzing multi-omics data, integrating genomics, transcriptomics, metagenomics, and clinical datasets.  
 
 🔬 **Research Interests & Expertise**  
 - **Integrative Omics Data Analytics** for multi-layered biological insights  
